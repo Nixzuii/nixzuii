@@ -11,7 +11,7 @@
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,aws,js,arch,github,vscode,docker,azure" />
+  <img src="https://skillicons.dev/icons?i=python,bash,aws,js,arch,github,docker,azure" />
 </p>
 
 ---
